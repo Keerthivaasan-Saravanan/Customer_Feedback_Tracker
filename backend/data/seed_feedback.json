@@ -1,0 +1,169 @@
+{
+  "feedback": [
+    {
+      "id": "FB-0001",
+      "customer_name": "Priya Nair",
+      "customer_email": "priya.nair@example.com",
+      "product": "Nimbus CRM",
+      "rating": 5,
+      "category": "Compliment",
+      "comments": "The new pipeline view saves our sales team hours every week. Very intuitive.",
+      "submitted_at": "2026-09-02T09:15:00+00:00",
+      "status": "Resolved"
+    },
+    {
+      "id": "FB-0002",
+      "customer_name": "Daniel Okafor",
+      "customer_email": "daniel.okafor@example.com",
+      "product": "Atlas Mobile App",
+      "rating": 2,
+      "category": "Bug",
+      "comments": "The app crashes when I try to attach a photo to a support ticket on Android 15.",
+      "submitted_at": "2026-09-05T14:40:00+00:00",
+      "status": "Resolved"
+    },
+    {
+      "id": "FB-0003",
+      "customer_name": "Mei Lin Chen",
+      "customer_email": "meilin.chen@example.com",
+      "product": "Pulse Analytics",
+      "rating": 4,
+      "category": "Suggestion",
+      "comments": "Please add the ability to schedule dashboard exports as weekly PDF reports.",
+      "submitted_at": "2026-09-11T11:05:00+00:00",
+      "status": "Reviewed"
+    },
+    {
+      "id": "FB-0004",
+      "customer_name": "Carlos Mendes",
+      "customer_email": "carlos.mendes@example.com",
+      "product": "Ledger Pro",
+      "rating": 1,
+      "category": "Bug",
+      "comments": "Invoice totals are off by a cent when tax is applied to multiple line items.",
+      "submitted_at": "2026-09-14T08:30:00+00:00",
+      "status": "Reviewed"
+    },
+    {
+      "id": "FB-0005",
+      "customer_name": "Amara Diallo",
+      "customer_email": "amara.diallo@example.com",
+      "product": "Helpdesk Hub",
+      "rating": 3,
+      "category": "Other",
+      "comments": "Onboarding documentation is useful but the setup guide is missing the SSO section.",
+      "submitted_at": "2026-09-18T16:20:00+00:00",
+      "status": "New"
+    },
+    {
+      "id": "FB-0006",
+      "customer_name": "Lukas Schneider",
+      "customer_email": "lukas.schneider@example.com",
+      "product": "Nimbus CRM",
+      "rating": 4,
+      "category": "Suggestion",
+      "comments": "Bulk editing of contact tags would make cleaning up old records much faster.",
+      "submitted_at": "2026-09-22T10:00:00+00:00",
+      "status": "New"
+    },
+    {
+      "id": "FB-0007",
+      "customer_name": "Fatima Al-Sayed",
+      "customer_email": "fatima.alsayed@example.com",
+      "product": "Pulse Analytics",
+      "rating": 5,
+      "category": "Compliment",
+      "comments": "Support responded within an hour and resolved our data refresh issue the same day.",
+      "submitted_at": "2026-09-25T13:45:00+00:00",
+      "status": "Resolved"
+    },
+    {
+      "id": "FB-0008",
+      "customer_name": "Tomasz Kowalski",
+      "customer_email": "tomasz.kowalski@example.com",
+      "product": "Atlas Mobile App",
+      "rating": 3,
+      "category": "Bug",
+      "comments": "Push notifications arrive several hours late when the device is on battery saver.",
+      "submitted_at": "2026-10-01T07:55:00+00:00",
+      "status": "Reviewed"
+    },
+    {
+      "id": "FB-0009",
+      "customer_name": "Sofia Rossi",
+      "customer_email": "sofia.rossi@example.com",
+      "product": "Ledger Pro",
+      "rating": 4,
+      "category": "Compliment",
+      "comments": "Month-end close is now a single afternoon instead of two days. Great improvement.",
+      "submitted_at": "2026-10-03T12:10:00+00:00",
+      "status": "New"
+    },
+    {
+      "id": "FB-0010",
+      "customer_name": "Kenji Watanabe",
+      "customer_email": "kenji.watanabe@example.com",
+      "product": "Helpdesk Hub",
+      "rating": 2,
+      "category": "Suggestion",
+      "comments": "Please allow agents to snooze tickets until a chosen date and time.",
+      "submitted_at": "2026-10-06T09:30:00+00:00",
+      "status": "New"
+    },
+    {
+      "id": "FB-0011",
+      "customer_name": "Hannah Brooks",
+      "customer_email": "hannah.brooks@example.com",
+      "product": "Nimbus CRM",
+      "rating": 1,
+      "category": "Bug",
+      "comments": "Deals created from the mobile app do not sync to the desktop dashboard until refresh.",
+      "submitted_at": "2026-10-08T15:25:00+00:00",
+      "status": "Reviewed"
+    },
+    {
+      "id": "FB-0012",
+      "customer_name": "Ravi Shankar",
+      "customer_email": "ravi.shankar@example.com",
+      "product": "Pulse Analytics",
+      "rating": 4,
+      "category": "Other",
+      "comments": "Would be helpful to know which data source a dashboard tile is pulling from.",
+      "submitted_at": "2026-10-12T11:40:00+00:00",
+      "status": "New"
+    },
+    {
+      "id": "FB-0015",
+      "customer_name": "Grace Kimani",
+      "customer_email": "grace.kimani@example.com",
+      "product": "Helpdesk Hub",
+      "rating": 1,
+      "category": "Bug",
+      "comments": "Canned replies lose their formatting when inserted into a ticket reply.",
+      "submitted_at": "2026-10-21T10:15:00+00:00",
+      "status": "New"
+    },
+    {
+      "id": "FB-0013",
+      "customer_name": "Elena Petrova",
+      "customer_email": "elena.petrova@example.com",
+      "product": "Atlas Mobile App",
+      "rating": 5,
+      "category": "Compliment",
+      "comments": "Offline mode works flawlessly on my field visits. Thank you for shipping this.",
+      "submitted_at": "2026-10-15T08:05:00+00:00",
+      "status": "New"
+    },
+    {
+      "id": "FB-0014",
+      "customer_name": "Omar Haddad",
+      "customer_email": "omar.haddad@example.com",
+      "product": "Ledger Pro",
+      "rating": 3,
+      "category": "Suggestion",
+      "comments": "Adding multi-currency support for vendor bills would help our regional teams.",
+      "submitted_at": "2026-10-19T17:50:00+00:00",
+      "status": "Reviewed"
+    }
+  ]
+}

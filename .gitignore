@@ -1,0 +1,50 @@
+# Dependencies and build output (never submit these)
+node_modules/
+dist/
+build/
+*.egg-info/
+frontend/.vite/
+coverage/
+.nyc_output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+# Runtime data created when the app runs.
+# seed_feedback.json is NOT listed here on purpose: it is the tracked seed data.
+backend/data/feedback.json
+backend/data/*.tmp
+*.tmp
+*.bak
+
+# Secrets and local configuration (commit .env.example instead, if one is added)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Note: frontend/package-lock.json is intentionally NOT ignored, so installs are reproducible.
